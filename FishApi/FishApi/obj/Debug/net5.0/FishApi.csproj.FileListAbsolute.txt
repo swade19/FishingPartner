@@ -38,3 +38,8 @@ C:\Personal\FishingPartner\FishingPartner\FishApi\FishApi\obj\Debug\net5.0\FishA
 C:\Personal\FishingPartner\FishingPartner\FishApi\FishApi\obj\Debug\net5.0\ref\FishApi.dll
 C:\Personal\FishingPartner\FishingPartner\FishApi\FishApi\obj\Debug\net5.0\FishApi.pdb
 C:\Personal\FishingPartner\FishingPartner\FishApi\FishApi\obj\Debug\net5.0\FishApi.genruntimeconfig.cache
+C:\Personal\FishingPartner\FishingPartner\FishApi\FishApi\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Personal\FishingPartner\FishingPartner\FishApi\FishApi\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Personal\FishingPartner\FishingPartner\FishApi\FishApi\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Personal\FishingPartner\FishingPartner\FishApi\FishApi\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Personal\FishingPartner\FishingPartner\FishApi\FishApi\obj\Debug\net5.0\FishApi.csprojAssemblyReference.cache

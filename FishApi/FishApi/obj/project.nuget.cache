@@ -1,10 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "6y/X/QHrVChzdzc8azFf0cTSPV/SRdqdipK6ia1M9F4yQCC8v3lNFF/mBPdSKQjG4GnFefSEksGkvHpez022zQ==",
+  "dgSpecHash": "e0FWiLa/i6s1tKoWhZw4imp4CuOc+BreiX5TysKRT/s4HHnLFqpJf6FhK70ekUMUEe8kNClQS1xhJ2UDW+csMA==",
   "success": true,
   "projectFilePath": "C:\\Personal\\FishingPartner\\FishingPartner\\FishApi\\FishApi\\FishApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\swade.INSURANCE\\.nuget\\packages\\dnsclient\\1.4.0\\dnsclient.1.4.0.nupkg.sha512",
+    "C:\\Users\\swade.INSURANCE\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\5.0.10\\microsoft.aspnetcore.jsonpatch.5.0.10.nupkg.sha512",
+    "C:\\Users\\swade.INSURANCE\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\5.0.10\\microsoft.aspnetcore.mvc.newtonsoftjson.5.0.10.nupkg.sha512",
+    "C:\\Users\\swade.INSURANCE\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\swade.INSURANCE\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\swade.INSURANCE\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.2\\microsoft.netcore.platforms.2.1.2.nupkg.sha512",
     "C:\\Users\\swade.INSURANCE\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
@@ -12,6 +15,8 @@
     "C:\\Users\\swade.INSURANCE\\.nuget\\packages\\mongodb.driver\\2.13.1\\mongodb.driver.2.13.1.nupkg.sha512",
     "C:\\Users\\swade.INSURANCE\\.nuget\\packages\\mongodb.driver.core\\2.13.1\\mongodb.driver.core.2.13.1.nupkg.sha512",
     "C:\\Users\\swade.INSURANCE\\.nuget\\packages\\mongodb.libmongocrypt\\1.2.2\\mongodb.libmongocrypt.1.2.2.nupkg.sha512",
+    "C:\\Users\\swade.INSURANCE\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\swade.INSURANCE\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512",
     "C:\\Users\\swade.INSURANCE\\.nuget\\packages\\sharpcompress\\0.23.0\\sharpcompress.0.23.0.nupkg.sha512",
     "C:\\Users\\swade.INSURANCE\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
     "C:\\Users\\swade.INSURANCE\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",

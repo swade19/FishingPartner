@@ -37,7 +37,8 @@ namespace FishApi
 
             services.AddSingleton<FishService>();
 
-            services.AddControllers();
+            services.AddControllers()
+               .AddNewtonsoftJson(options => options.UseMemberCasing());
             services.AddSwaggerGen(c =>
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "FishApi", Version = "v1" });
